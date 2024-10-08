@@ -1,16 +1,3 @@
 # clima_web_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A mobile app that provides real-time weather updates based on your current location. Built using Flutter and Dart, this app fetches weather data directly from the OpenWeatherMap API, allowing users to stay informed about weather conditions wherever they are.
